@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RandomThoughts]]></title>
-        <description><![CDATA[RandomThoughts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Life's Notions]]></title>
+        <description><![CDATA[Life's Notions]]></description>
+        <link>https://thegrid.ai/randomthoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 16:42:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 18:06:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/randomthoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>So here we are. An online place for me to document my random thoughts. Often I wonder if other people think the same way as me, and this is my chance to share my thoughts and see if other people agree. Sometimes I may rant on about my views and opinions (and they are just opinions, however they are mine so they are correct), or I may just share a random thought that pops into my head. Either way, I hope you enjoy the read. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5da58c7-4328-43df-b707-f92888f07fde.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5da58c7-4328-43df-b707-f92888f07fde.jpg</link>
+            <guid isPermaLink="false">63edfc61-905f-4885-bd74-578177464b27</guid>
+            <pubDate>Tue, 28 Jun 2016 18:06:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c50e11fb-dd03-416a-99ea-d1c9dc05b6b3.jpg">]]></description>
