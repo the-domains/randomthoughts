@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.06810036
 color:
   saturation: 0.5134907
   brandStrength: 0.8895447
-  lightness: 0.9055649
+  rhythmicContrast: 0.6602024
   brandColors:
     - '#F2F2F2'
     - '#000000'
     - '#B2B2B2'
     - '#4C4C4C'
     - '#8B8B8B'
-  rhythmicContrast: 0.6602024
-layout_spectrum: 0.06155143
+  lightness: 0.9055649
+layout_spectrum: 0.9274874
 name: RandomThoughts
