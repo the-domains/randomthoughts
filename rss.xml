@@ -4,7 +4,7 @@
         <description><![CDATA[Life's Notions]]></description>
         <link>https://thegrid.ai/randomthoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 18:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 18:52:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/randomthoughts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5da58c7-4328-43df-b707-f92888f07fde.jpg</link>
             <guid isPermaLink="false">63edfc61-905f-4885-bd74-578177464b27</guid>
             <pubDate>Tue, 28 Jun 2016 18:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c50e11fb-dd03-416a-99ea-d1c9dc05b6b3.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c50e11fb-dd03-416a-99ea-d1c9dc05b6b3.jpg</link>
-            <guid isPermaLink="false">13f1ffb2-dc7e-4d8c-9cc3-1c0c96e60330</guid>
-            <pubDate>Tue, 28 Jun 2016 16:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
