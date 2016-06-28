@@ -10,11 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4527825
-  brandStrength: 0.6091906
-  lightness: 0.9645869
-  rhythmicContrast: 0.4536256
 typography_spectrum: 0.06810036
+color:
+  saturation: 0.5134907
+  brandStrength: 0.8895447
+  lightness: 0.9055649
+  brandColors:
+    - '#F2F2F2'
+    - '#000000'
+    - '#B2B2B2'
+    - '#4C4C4C'
+    - '#8B8B8B'
+  rhythmicContrast: 0.6602024
 layout_spectrum: 0.06155143
 name: RandomThoughts
